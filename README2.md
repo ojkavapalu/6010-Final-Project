@@ -2,5 +2,5 @@
 "hi there!"
 
 
-std::cout<< "Hello World!" << std::endl;
+std::cout<< "Hello!" << std::endl;
 
